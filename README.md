@@ -1,5 +1,4 @@
-— Projeto-agrinho2024 —
-
+— Projeto-agrinho2025_
 Repositório usado para a apresentação do meu projeto agrinho 2025, com o tema "Do Campo à Cidade: Colhendo Oportunidades"
  
  O site apresenta uma pagina inicial, com uma breve introdução e um botão que redireciona para a segunda página, onde falo sobre alguns equipamentos usados na agricultura moderna. 
